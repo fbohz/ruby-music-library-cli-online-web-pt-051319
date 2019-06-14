@@ -35,7 +35,7 @@ class MusicLibraryController
         #return 
         system('clear')
       end
-
+    end 
   end 
   
  def list_songs
