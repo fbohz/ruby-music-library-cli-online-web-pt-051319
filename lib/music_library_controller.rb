@@ -32,8 +32,8 @@ class MusicLibraryController
       when "play song"
         play_song
       when "exit"
-        return 
-        #system('clear')
+        #return 
+        system('clear')
       end
 
   end 
