@@ -33,9 +33,9 @@ class MusicLibraryController
         list_songs_by_genre
       when "play song"
         play_song
-      # when "exit"
-      #   #return 
-      #   system('clear')
+      when "exit"
+        #return 
+        system('clear')
       end
     end 
   end 
